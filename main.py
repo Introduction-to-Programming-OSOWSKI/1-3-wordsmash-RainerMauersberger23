@@ -1,4 +1,4 @@
 def wordSmash(wordOne, wordTwo):
-    return wordOne
+    return wordTwo
 
 print (wordSmash("Chicago", "Bears"))
